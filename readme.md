@@ -12,6 +12,10 @@ This repo will explore the correlation between the number of languages spoken in
 
 **Why:** Pearson correlation is used to solve this problem.
 
+**Answer**
+- Language Counts with Population = 0.71
+- Language Counts with GDP = 0.24
+
 ## Mathematical Foundations
 
 ### Variance
